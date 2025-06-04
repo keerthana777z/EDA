@@ -1,7 +1,7 @@
 
-# 📊 EDA Project – Exploratory Data Analysis on [Dataset Name]
+# 📊 EDA Project – Exploratory Data Analysis on [VEHICLE SALES Dataset]
 
-This repository contains a complete **Exploratory Data Analysis (EDA)** project conducted on the **[Dataset Name]** dataset using Python. The goal is to uncover insights, detect patterns, clean the data, and prepare it for further modeling or decision-making.
+This repository contains a complete **Exploratory Data Analysis (EDA)** project conducted on the **[VEHICLE SALESDataset]** dataset using Python. The goal is to uncover insights, detect patterns, clean the data, and prepare it for further modeling or decision-making.
 
 ---
 
